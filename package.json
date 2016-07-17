@@ -1,5 +1,5 @@
 {
-  "name": "twitter-screen-scrape",
+  "name": "twitter-screen-scrape-fork",
   "description": "scrape public twitter data w/out API access",
   "version": "1.0.2",
   "author": "Sean Lang <slang800@gmail.com>",
